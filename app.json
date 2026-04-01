@@ -18,6 +18,7 @@
     },
     "android": {
       "package": "com.local.chequereminder",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#F4EFE5"
@@ -47,6 +48,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "f76baf3f-67aa-41a3-b0b9-b86a7d1556c6"
+      }
     }
   }
 }
