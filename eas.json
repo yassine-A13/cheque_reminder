@@ -6,14 +6,12 @@
     "preview": {
       "distribution": "internal",
       "node": "20.19.4",
-      "npm": "10.8.2",
       "android": {
         "buildType": "apk"
       }
     },
     "production": {
       "node": "20.19.4",
-      "npm": "10.8.2",
       "android": {
         "buildType": "app-bundle"
       }
